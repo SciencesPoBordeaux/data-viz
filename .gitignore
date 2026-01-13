@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python /uv / etc. stuff ?
+
