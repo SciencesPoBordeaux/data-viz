@@ -99,7 +99,7 @@ Description des icônes :
 | **Séance 10** | TBD                                                                                                                               |                                                                                                          |                                |
 | **Séance 11** | TBD                                                                                                                               |                                                                                                          | :dart: Visualisation II        |
 | **Séance 12** | TBD                                                                                                                               |                                                                                                          |                                |
-| **10 avril**  |                                                                                                                                   |                                                                                                          | :mortar_board: Infographie)**  |
+| **10 avril**  |                                                                                                                                   |                                                                                                          | :mortar_board: **Infographie**  |
 
 
 ### Contact & Support
