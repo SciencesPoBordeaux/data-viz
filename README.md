@@ -54,13 +54,13 @@ Bloc 3 – Visualisation de données (6 séances)
 Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de rendus intermédiaires.
 Les rendus débouchent sur un rendu final prenant la forme d'une infographie aboutie.
 
-  | Date rendu | Évaluation                                                              | Poids | Description                                                                 |
-  |------------|-------------------------------------------------------------------------|-------|-----------------------------------------------------------------------------|
-  | Séance 5   | Modifications de titres/sous-titres                                     | 10%   | Capacité à choisir des éléments éditoriaux clairs et pertinents             |
-  | Séance 7   | Identification de deux variables et calcul de statistiques descriptives | 10%   | Rigueur dans le choix des variables et la qualité du traitement             |
-  | Séance 9   | Prototype de visualisation univariée                                    | 10%   | Pertinence du graphique et lisibilité                                       |
-  | Séance 11  | Prototype de visualisation bivariée                                     | 10%   | Pertinence du graphique et lisibilité                                       |
-  | Final      | Figure finale (a rendr epour le **10 avril**)                           | 60%   | Une visualisation aboutie, respectant tous les critères de qualité attendus |
+   | Date rendu | Évaluation                                                              | Poids | Description                                                                 |
+   |------------|-------------------------------------------------------------------------|-------|-----------------------------------------------------------------------------|
+   | Séance 5   | Modifications de titres/sous-titres                                     | 10%   | Capacité à choisir des éléments éditoriaux clairs et pertinents             |
+   | Séance 7   | Identification de deux variables et calcul de statistiques descriptives | 10%   | Rigueur dans le choix des variables et la qualité du traitement             |
+   | Séance 9   | Prototype de visualisation univariée                                    | 10%   | Pertinence du graphique et lisibilité                                       |
+   | Séance 11  | Prototype de visualisation bivariée                                     | 10%   | Pertinence du graphique et lisibilité                                       |
+   | Final      | Figure à rendre pour le **10 avril**                                    | 60%   | Une visualisation aboutie, respectant tous les critères de qualité attendus |
 
 **Critères de réussite de la figure finale :**
 
@@ -75,35 +75,27 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
   - une mise en forme adéquate
 - enregistre la figure dans un format de sortie adapté (png, pdf, html…)
 
-### Calendrier 
+### Calendrier
 
-Selon le groupe et l'enseignant.
-- **:fontawesome-solid-chalkboard-user: Presentation:** Indicates that there is a student presentation this day. Contains a link to the instructions.
-- **:fontawesome-solid-award: Milestone:** Indicates that there is a milestone due before the next class. Contains a link to the instructions.
-- **:fontawesome-regular-file-code: 
- 
-     | Séance    | Slides | Notebook | Rendu                 |
-     |-----------|--------|----------|-----------------------|
-     | Séance 1  |   [:monkey:](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html) | [](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb) |                       |
-     | Séance 5  |        |          | M1 - Identification   |
-     | Séance 7  |        |          | M2 - Traitement       |
-     | Séance 9  |        |          | M3 - Visualisation I  |
-     | Séance 11 |        |          | M4 - Visualisation II |
-     | Final     |        |          | M5 - Projet           |
+Description des icônes :
+
+- :bookmark_tabs: **Slides** : Présentations théoriques et exemples.
+- :computer: **Notebook**  : Travaux pratiques (ouvrables directement dans Google Colab).
+- :dart: **Rendu** : Échéance importante pour l'évaluation.
+
+| Séance | Slides | Notebook | Rendu |
+| --- | --- | --- | --- |
+| **Séance 1** | [:bookmark_tabs: Introduction](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html) | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb) |  |
+| **Séance 2** | [:bookmark_tabs: Pourquoi programmer?](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) |  |  |
+| **Séance 5** |  |  | :dart: **M1** : Titres & Sous-titres |
+| **Séance 7** |  |  | :dart: **M2** : Variables & Stats desc. |
+| **Séance 9** |  |  | :dart: **M3** : Visualisation Univariée |
+| **Séance 11** |  |  | :dart: **M4** : Visualisation Bivariée |
+| **Final (10 avril)** |  |  | :mortar_board: **M5 : Projet Final (Infographie)** |
 
 
-#### Liens Séance 1
-
-- [slides-S1](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)
-- [Demo_intro](https://githubtocolab.com/SciencesPoBordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb)
-
-#### Liens Séance 2
-
-[slides-S2](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide)
-
-#### Prendre RDV
-
-- [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
+### Contact & Support
+* **:calendar: Prendre rendez-vous :** [(Mickael Temporão)](https://calendar.app.google/AU48bCi41zpUHgCh6)
 
 ### Liens Utiles
 
@@ -111,7 +103,7 @@ Selon le groupe et l'enseignant.
 - [Dataviz Catalogue](https://datavizcatalogue.com/)
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Données: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
-- Autres ressources [ici](https://github.com/SciencesPoBordeaux/data-viz/blob/main/ressources.md)
+- [Autres ressources](https://github.com/SciencesPoBordeaux/data-viz/blob/main/ressources.md)
 
 ### À propos
 <!-- TODO : PRÉCISER LES TYPES DE NUMÉROS DE CLAQUETTES POUR BROADWAY ? -->
