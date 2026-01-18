@@ -50,7 +50,8 @@ hexes = (
                 domain=domain_range
             ),
             legend=alt.Legend(
-                title=["Inégalité de genre en faveur des femmes"], 
+                title=["Écart de connaissance en faveur des femmes"], 
+                titleLimit=500,
                 orient='none',
                 legendX=250*2, legendY=50*2,
                 direction='horizontal',

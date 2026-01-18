@@ -6,7 +6,7 @@ Dans un monde où les données sont omniprésentes, la capacité à produire des
 Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
 
 <p align="center">
-    <img src="figures/visualization.png" style="max-width:60%;">
+    <img src="figures/visualization.svg" style="max-width:60%;">
 </p>
 
 En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences sociales, il s'agira d'apprendre à manipuler et simplifier des données empiriques pour produire des visualisations claires ayant un message précis. Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
@@ -89,6 +89,8 @@ Description des icônes :
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------:|--------------------------------|
 | **Séance 1**  | [:bookmark_tabs: Introduction](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)                      | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb) |                                |
 | **Séance 2**  | [:bookmark_tabs: Pourquoi programmer?](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) |                                                                                                          |                                |
+| **Séance 3**  | |                                                                                                          |                                |
+| **Séance 4**  | |                                                                                                          |                                |
 | **Séance 5**  |                                                                                                                                   |                                                                                                          | :dart: Titres & Sous-titres    |
 | **Séance 7**  |                                                                                                                                   |                                                                                                          | :dart: Variables & Stats desc. |
 | **Séance 9**  |                                                                                                                                   |                                                                                                          | :dart: Visualisation I         |
@@ -97,7 +99,7 @@ Description des icônes :
 
 
 ### Contact & Support
-* **:calendar: Prendre rendez-vous :** [(Mickael Temporão)](https://calendar.app.google/AU48bCi41zpUHgCh6)
+* **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
 
 ### Liens Utiles
 
