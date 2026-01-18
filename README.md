@@ -5,7 +5,6 @@ Dans un monde où les données sont omniprésentes, la capacité à produire des
 
 Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
 
-
 <p align="center">
     <img src="figures/visualization.png" style="max-width:60%;">
 </p>
