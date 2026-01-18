@@ -86,9 +86,14 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
 
 - [slides-S1](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)
 - [Demo_intro](https://githubtocolab.com/SciencesPoBordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb)
-- [Donnés: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
+- [Données: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
+
+#### Liens Séance 2
+
+[slides-S2](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide)
 
 #### Prendre RDV
+
 - [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
 
 ### Bibliographie
@@ -102,4 +107,3 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
 <!-- TODO : PRÉCISER LES TYPES DE NUMÉROS DE CLAQUETTES POUR BROADWAY ? -->
 
 Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation **de numéros de claquettes**.
-
