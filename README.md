@@ -54,13 +54,15 @@ Bloc 3 – Visualisation de données (6 séances)
 Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de rendus intermédiaires.
 Les rendus débouchent sur un rendu final prenant la forme d'une infographie aboutie.
 
-   | Date rendu | Évaluation                                                              | Poids | Description                                                                 |
-   |------------|-------------------------------------------------------------------------|-------|-----------------------------------------------------------------------------|
-   | Séance 5   | Modifications de titres/sous-titres                                     | 10%   | Capacité à choisir des éléments éditoriaux clairs et pertinents             |
-   | Séance 7   | Identification de deux variables et calcul de statistiques descriptives | 10%   | Rigueur dans le choix des variables et la qualité du traitement             |
-   | Séance 9   | Prototype de visualisation univariée                                    | 10%   | Pertinence du graphique et lisibilité                                       |
-   | Séance 11  | Prototype de visualisation bivariée                                     | 10%   | Pertinence du graphique et lisibilité                                       |
-   | Final      | Figure à rendre pour le **10 avril**                                    | 60%   | Une visualisation aboutie, respectant tous les critères de qualité attendus |
+<!-- TODO: Fusionner évaluation et description dans la table -->
+
+| Date rendu | Évaluation                                                              | Poids | Description                                                                 |
+|------------|-------------------------------------------------------------------------|-------|-----------------------------------------------------------------------------|
+| Séance 5   | Modifications de titres/sous-titres                                     | 10%   | Capacité à choisir des éléments éditoriaux clairs et pertinents             |
+| Séance 7   | Identification de deux variables et calcul de statistiques descriptives | 10%   | Rigueur dans le choix des variables et la qualité du traitement             |
+| Séance 9   | Prototype de visualisation univariée                                    | 10%   | Pertinence du graphique et lisibilité                                       |
+| Séance 11  | Prototype de visualisation bivariée                                     | 10%   | Pertinence du graphique et lisibilité                                       |
+| Final      | Figure à rendre pour le **10 avril**                                    | 60%   | Une visualisation aboutie, respectant tous les critères de qualité attendus |
 
 **Critères de réussite de la figure finale :**
 
