@@ -110,4 +110,4 @@ Description des icônes :
 ### À propos
 <!-- TODO : PRÉCISER LES TYPES DE NUMÉROS DE CLAQUETTES POUR BROADWAY ? -->
 
-Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation **de numéros de claquettes**.
+Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation de numéros de claquettes.
