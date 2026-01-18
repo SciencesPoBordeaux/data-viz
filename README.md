@@ -56,15 +56,15 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
 
 <!-- TODO: Fusionner évaluation et description dans la table -->
 
-| Date rendu | Évaluation                                                              | Poids | Description                                                                 |
-|------------|-------------------------------------------------------------------------|-------|-----------------------------------------------------------------------------|
-| Séance 5   | Modifications de titres/sous-titres                                     | 10%   | Capacité à choisir des éléments éditoriaux clairs et pertinents             |
-| Séance 7   | Identification de deux variables et calcul de statistiques descriptives | 10%   | Rigueur dans le choix des variables et la qualité du traitement             |
-| Séance 9   | Prototype de visualisation univariée                                    | 10%   | Pertinence du graphique et lisibilité                                       |
-| Séance 11  | Prototype de visualisation bivariée                                     | 10%   | Pertinence du graphique et lisibilité                                       |
-| Final      | Figure à rendre pour le **10 avril**                                    | 60%   | Une visualisation aboutie, respectant tous les critères de qualité attendus |
+| Date rendu | Description                                         | Poids |
+|------------|-----------------------------------------------------|-------|
+| Séance 5   | Modifications de titres/sous-titres                 | 10%   |
+| Séance 7   | Sélection de variables et statistiques descriptives | 10%   |
+| Séance 9   | Prototype de visualisation I                        | 10%   |
+| Séance 11  | Prototype de visualisation II                       | 10%   |
+| Final      | Infographie à rendre pour le **10 avril**  | 60%   |
 
-**Critères de réussite de la figure finale :**
+**Critères de réussite de l'infographie :**
 
 - un code fonctionnel, reproductible de bout en bout
 - qui charge la base de données
@@ -85,15 +85,15 @@ Description des icônes :
 - :computer: **Notebook**  : Travaux pratiques (ouvrables directement dans Google Colab).
 - :dart: **Rendu** : Échéance importante pour l'évaluation.
 
-| Séance | Slides | Notebook | Rendu |
-| --- | --- | --- | --- |
-| **Séance 1** | [:bookmark_tabs: Introduction](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html) | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb) |  |
-| **Séance 2** | [:bookmark_tabs: Pourquoi programmer?](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) |  |  |
-| **Séance 5** |  |  | :dart: **M1** : Titres & Sous-titres |
-| **Séance 7** |  |  | :dart: **M2** : Variables & Stats desc. |
-| **Séance 9** |  |  | :dart: **M3** : Visualisation Univariée |
-| **Séance 11** |  |  | :dart: **M4** : Visualisation Bivariée |
-| **Final (10 avril)** |  |  | :mortar_board: **M5 : Projet Final (Infographie)** |
+| Séance        | Slides                                                                                                                            | Notebook                                                                                                 | Rendu                          |
+|---------------|-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------|
+| **Séance 1**  | [:bookmark_tabs: Introduction](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)                      | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb) |                                |
+| **Séance 2**  | [:bookmark_tabs: Pourquoi programmer?](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) |                                                                                                          |                                |
+| **Séance 5**  |                                                                                                                                   |                                                                                                          | :dart: Titres & Sous-titres    |
+| **Séance 7**  |                                                                                                                                   |                                                                                                          | :dart: Variables & Stats desc. |
+| **Séance 9**  |                                                                                                                                   |                                                                                                          | :dart: Visualisation I         |
+| **Séance 11** |                                                                                                                                   |                                                                                                          | :dart: Visualisation II        |
+| **10 avril**  |                                                                                                                                   |                                                                                                          | :mortar_board: Infographie)**  |
 
 
 ### Contact & Support
