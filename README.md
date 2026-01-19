@@ -6,7 +6,7 @@ Dans un monde où les données sont omniprésentes, la capacité à produire des
 Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
 
 <p align="center">
-    <img src="figures/visualization.png" style="max-width:60%;">
+    <img src="figures/visualization.svg" style="max-width:40%;">
 </p>
 
 En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences sociales, il s'agira d'apprendre à manipuler et simplifier des données empiriques pour produire des visualisations claires ayant un message précis. Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
@@ -49,24 +49,22 @@ Bloc 3 – Visualisation de données (6 séances)
 
 <!-- TODO: raffiner les types de visualisation qui seront présentées -->
 
-### Calendrier et créneaux horaire
-
-Selon le groupe et l'enseignant.
-
-### Modes de validation
+### Validation des acquis
 
 Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de rendus intermédiaires.
 Les rendus débouchent sur un rendu final prenant la forme d'une infographie aboutie.
 
- | Date rendu           | Évaluation                                                              | Poids | Description                                                                 |
- |----------------------|-------------------------------------------------------------------------|-------|-----------------------------------------------------------------------------|
- | Séance 5             | Modifications de titres/sous-titres                                     | 10%   | Capacité à choisir des éléments éditoriaux clairs et pertinents             |
- | Séance 7             | Identification de deux variables et calcul de statistiques descriptives | 10%   | Rigueur dans le choix des variables et la qualité du traitement             |
- | Séance 9             | Prototype de visualisation univariée                                    | 10%   | Pertinence du graphique et lisibilité                                       |
- | Séance 11            | Prototype de visualisation bivariée                                     | 10%   | Pertinence du graphique et lisibilité                                       |
- | Final (**10 avril**) | Figure finale                                                           | 60%   | Une visualisation aboutie, respectant tous les critères de qualité attendus |
+<!-- TODO: Fusionner évaluation et description dans la table -->
 
-**Critères de réussite de la figure finale :**
+| Date rendu | Description                                         | Poids |
+|------------|-----------------------------------------------------|-------|
+| Séance 5   | Modifications de titres/sous-titres                 | 10%   |
+| Séance 7   | Sélection de variables et statistiques descriptives | 10%   |
+| Séance 9   | Prototype de visualisation I                        | 10%   |
+| Séance 11  | Prototype de visualisation II                       | 10%   |
+| Final      | Infographie à rendre pour le **10 avril**  | 60%   |
+
+**Critères de réussite de l'infographie :**
 
 - un code fonctionnel, reproductible de bout en bout
 - qui charge la base de données
@@ -79,30 +77,43 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
   - une mise en forme adéquate
 - enregistre la figure dans un format de sortie adapté (png, pdf, html…)
 
+### Calendrier
+
+Description des icônes :
+
+- :bookmark_tabs: **Slides** : Présentations théoriques et exemples.
+- :computer: **Notebook**  : Travaux pratiques (ouvrables directement dans Google Colab).
+- :dart: **Rendu** : Échéance importante pour l'évaluation.
+
+ | Séance        | Slides                                                                                                                            | Notebook                                                                                                             | Rendu                          |
+ |---------------|-----------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------:|--------------------------------|
+ | **Séance 1**  | [:bookmark_tabs: Introduction](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)                      | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb)             |                                |
+ | **Séance 2**  | [:bookmark_tabs: Pourquoi programmer?](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/01-introduction-python.ipynb) |                                |
+ | **Séance 3**  | TBD                                                                                                                               |                                                                                                                      |                                |
+ | **Séance 4**  | TBD                                                                                                                               |                                                                                                                      |                                |
+ | **Séance 5**  | TBD                                                                                                                               |                                                                                                                      | :dart: Titres & Sous-titres    |
+ | **Séance 6**  | TBD                                                                                                                               |                                                                                                                      |                                |
+ | **Séance 7**  | TBD                                                                                                                               |                                                                                                                      | :dart: Variables & Stats desc. |
+ | **Séance 8**  | TBD                                                                                                                               |                                                                                                                      |                                |
+ | **Séance 9**  | TBD                                                                                                                               |                                                                                                                      | :dart: Visualisation I         |
+ | **Séance 10** | TBD                                                                                                                               |                                                                                                                      |                                |
+ | **Séance 11** | TBD                                                                                                                               |                                                                                                                      | :dart: Visualisation II        |
+ | **Séance 12** | TBD                                                                                                                               |                                                                                                                      |                                |
+ | **10 avril**  |                                                                                                                                   |                                                                                                                      | :mortar_board: **Infographie** |
+
+
+### Contact & Support
+* **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
+
 ### Liens Utiles
-
-#### Liens Séance 1
-
-- [slides-S1](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)
-- [Demo_intro](https://githubtocolab.com/SciencesPoBordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb)
-- [Données: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
-
-#### Liens Séance 2
-
-[slides-S2](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide)
-
-#### Prendre RDV
-
-- [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
-
-### Bibliographie
 
 - [From Data to Viz](https://www.data-to-viz.com/)
 - [Dataviz Catalogue](https://datavizcatalogue.com/)
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
-- et une liste de ressources [ici](https://github.com/SciencesPoBordeaux/data-viz/blob/main/ressources.md)
+- [Données: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
+- [Autres ressources](https://github.com/SciencesPoBordeaux/data-viz/blob/main/ressources.md)
 
 ### À propos
 <!-- TODO : PRÉCISER LES TYPES DE NUMÉROS DE CLAQUETTES POUR BROADWAY ? -->
 
-Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation **de numéros de claquettes**.
+Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation de numéros de claquettes.

@@ -44,8 +44,23 @@ hexes = (
     .encode(
         color=alt.Color(
             "gender_gap:Q",
-            scale=alt.Scale(scheme="redgrey", domainMid=0, domain=domain_range),
-            legend=alt.Legend(title=["Inégalité de", "Genre"])
+            scale=alt.Scale(
+                scheme="redgrey", 
+                domainMid=0, 
+                domain=domain_range
+            ),
+            legend=alt.Legend(
+                title=["Écart de connaissance en faveur des femmes"], 
+                titleLimit=500,
+                orient='none',
+                legendX=250*2, legendY=50*2,
+                direction='horizontal',
+                titleAnchor='middle',
+                titleFontSize=10*2,
+                labelFontSize=8*2,
+                tickCount=5,
+                gradientLength=250*2,
+            )
         ),
         tooltip=["state:N", alt.Tooltip("gender_gap:Q", format=".1%"), "count:Q"]
     )
@@ -55,7 +70,7 @@ hexes = (
 hex_labels = (
     alt.Chart(gdf)
     .mark_text(
-        fontSize=14, 
+        fontSize=16*2, 
         fontWeight="bold", 
         color="black", 
         align="center", 
@@ -75,10 +90,10 @@ subtitle = [
 
 ## Text and stuff...
 chart_title = alt.TitleParams(
-    "Inégalités de connaissance politique aux États-Unis selon le genre",
+    "Inégalités de connaissance politique selon le genre en 2024",
     subtitle=subtitle,
-    fontSize=20,
-    subtitleFontSize=14,
+    fontSize=20*2,
+    subtitleFontSize=13*2,
     anchor="start",
     fontWeight="bold"
 )
@@ -86,22 +101,23 @@ chart_title = alt.TitleParams(
 source_text = alt.Chart().mark_text(
     align='right',
     baseline='bottom',
-    fontSize=12,
+    fontSize=12*2,
     color='gray'
 ).encode(
     text=alt.value("Source: 2024 American National Election Study"),
-    x=alt.value(800 - 10),
-    y=alt.value(525 - 10),
+    x=alt.value(800*2 - 10*2),
+    y=alt.value(525*2 - 10*2),
 )
 
 hexmap = (hexes + hex_labels + source_text).project(
     type="mercator"
 ).properties(
-    width=800,
-    height=500,
+    width=800*2,
+    height=500*2,
     title=chart_title
 ).configure_view(stroke=None)
 
 hexmap
 
-hexmap.save('a-chart.pdf')
+hexmap.save('figures/visualization.svg')
+
