@@ -30,7 +30,7 @@ Bloc 1 – Mise en place & premiers pas (1 séances)
 - Présentation de l'environnement de développement (Google Colab) et prise en main
 - Exécution d’une première visualisation à partir d'un code fourni par les enseignants
 
-Bloc 2 – Initiation à Python et à Pandas (4 séances)  
+Bloc 2 – Initiation à Python et à Pandas (5 séances)  
 *Objectif : acquérir les bases de la programmation et du traitement de données*
 
 - Syntaxe de base en Python
@@ -93,12 +93,12 @@ Description des icônes :
 | **Séance 4**  | Chargement et filtrage des données                                                                                                |                                                                                                                      |                                |
 | **Séance 5**  | Recodage et préparation des données                                                                                               |                                                                                                                      | :dart: Titres & Sous-titres    |
 | **Séance 6**  | Variables et statistiques descriptives                                                                                            |                                                                                                                      |                                |
-| **Séance 7**  | Visualisation I                                                                                                                   |                                                                                                                      | :dart: Variables & Stats desc. |
+| **Séance 7**  | Visualisations I                                                                                                                   |                                                                                                                      | :dart: Variables & Stats desc. |
 | **Séance 8**  | Visualisations II                                                                                                                 |                                                                                                                      |                                |
 | **Séance 9**  | Visualisations III                                                                                                                |                                                                                                                      | :dart: Visualisation I         |
 | **Séance 10** | Visualisations IV                                                                                                                 |                                                                                                                      |                                |
-| **Séance 11** | Viusalisatoin V                                                                                                                   |                                                                                                                      | :dart: Visualisation II        |
-| **Séance 12** | Viusalisatoin VI                                                                                                                  |                                                                                                                      |                                |
+| **Séance 11** | Visualisations V                                                                                                                   |                                                                                                                      | :dart: Visualisation II        |
+| **Séance 12** | Visualisations VI                                                                                                                  |                                                                                                                      |                                |
 | **10 avril**  |                                                                                                                                   |                                                                                                                      | :mortar_board: **Infographie** |
 
 
