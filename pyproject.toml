@@ -8,5 +8,6 @@ dependencies = [
     "altair[all]>=6.0.0",
     "geopandas>=1.1.1",
     "ipython>=9.8.0",
+    "matplotlib>=3.10.8",
     "pandas>=2.3.3",
 ]
