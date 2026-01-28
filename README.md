@@ -104,7 +104,8 @@ Description des icônes :
 
 
 ### Contact & Support
-* **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
+- **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
+- [**Aide/Chat WhatsApp**](https://chat.whatsapp.com/DA7qnMYS2lJ3DSFk02KB7j)
 
 ### Liens Utiles
 
