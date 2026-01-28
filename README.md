@@ -1,6 +1,16 @@
 # Initiation à la Data Visualisation
 
 Comment faire passer un message simple à partir d'informations complexes ?  
+
+## Table des matières
+
+- [Programme](#format-du-cours-et-programme-prévisionnel)
+- [Validation](#validation-des-acquis)
+- [Calendrier](#calendrier)
+- [Contact & Support](#contact--support)
+- [Liens Utiles](#liens-utiles)
+- [À propos](#à-propos)
+
 Dans un monde où les données sont omniprésentes, la capacité à produire des visualisations est devenue une compétence essentielle pour les journalistes, chercheur·e·s ou tout·e professionnel·le se confrontant à des données dans ses travaux ou sa prise de décision.
 
 Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
