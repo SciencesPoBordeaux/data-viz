@@ -6,13 +6,16 @@
 
 ## Table des matières
 
-- [Introduction](#introduction)
-- [Programme](#format-du-cours-et-programme-prévisionnel)
-- [Validation](#validation-des-acquis)
-- [Calendrier](#calendrier)
-- [Contact & support](#contact--support)
-- [Liens utiles](#liens-utiles)
-- [À propos](#à-propos)
+- [Initiation à la Data Visualisation](#initiation-à-la-data-visualisation)
+  - [Table des matières](#table-des-matières)
+  - [Introduction](#introduction)
+    - [À la fin du semestre, vous saurez](#à-la-fin-du-semestre-vous-saurez)
+  - [Format du cours et programme prévisionnel](#format-du-cours-et-programme-prévisionnel)
+  - [Validation des acquis](#validation-des-acquis)
+  - [Calendrier](#calendrier)
+  - [Contact \& support](#contact--support)
+  - [Liens utiles](#liens-utiles)
+  - [À propos](#à-propos)
 
 ## Introduction
 
@@ -103,10 +106,8 @@ Description des icônes :
 | **Séance 1**  | [:bookmark_tabs: Introduction](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)                      | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb)             |                                |
 | **Séance 2**  | [:bookmark_tabs: Programmer en Python I](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/01-introduction-python.ipynb) |                                |
 | **Séance 3**  | Programmer en Python II                                                                                                             | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/02-types-et-structures.ipynb) |                                |
-| **Séance 4**  | Chargement et filtrage des données                                                                                                |                                                                                                                      |                                |
-| **Séance 5**  | Recodage et préparation des données                                                                                               |                                                                                                                      | :dart: [Titres & Sous-titres](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/milestone-1.ipynb)    |
 | **Séance 4**  | Chargement et filtrage des données                                                                                                |   [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/03-exploration-donnees-colonnes.ipynb) |                                |
-| **Séance 5**  | Recodage et préparation des données                                                                                               |                                                                                                                      | :dart: Titres & Sous-titres    |
+| **Séance 5**  | Recodage et préparation des données                                                                                               |                                                                                                                      | :dart: [Titres & Sous-titres](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/milestone-1.ipynb)    |
 | **Séance 6**  | Variables et statistiques descriptives                                                                                            |                                                                                                                      |                                |
 | **Séance 7**  | Visualisations I                                                                                                                   |                                                                                                                      | :dart: Variables & Stats desc. |
 | **Séance 8**  | Visualisations II                                                                                                                 |                                                                                                                      |                                |
