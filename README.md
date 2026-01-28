@@ -1,13 +1,29 @@
 # Initiation à la Data Visualisation
 
+<p align="center">
+    <img src="figures/visualization.svg" alt="Data-Viz" style="width:66%;">
+</p>
+
+## Table des matières
+
+- [Initiation à la Data Visualisation](#initiation-à-la-data-visualisation)
+  - [Table des matières](#table-des-matières)
+  - [Introduction](#introduction)
+    - [À la fin du semestre, vous saurez](#à-la-fin-du-semestre-vous-saurez)
+  - [Format du cours et programme prévisionnel](#format-du-cours-et-programme-prévisionnel)
+  - [Validation des acquis](#validation-des-acquis)
+  - [Calendrier](#calendrier)
+  - [Contact \& support](#contact--support)
+  - [Liens utiles](#liens-utiles)
+  - [À propos](#à-propos)
+
+## Introduction
+
 Comment faire passer un message simple à partir d'informations complexes ?  
+
 Dans un monde où les données sont omniprésentes, la capacité à produire des visualisations est devenue une compétence essentielle pour les journalistes, chercheur·e·s ou tout·e professionnel·le se confrontant à des données dans ses travaux ou sa prise de décision.
 
 Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
-
-<p align="center">
-    <img src="figures/visualization.svg" style="max-width:40%;">
-</p>
 
 En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences sociales, il s'agira d'apprendre à manipuler et simplifier des données empiriques pour produire des visualisations claires ayant un message précis. Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
 
@@ -19,7 +35,7 @@ En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences soc
 - Choisir un type de visualisation pertinent selon les données et le message que vous souhaitez véhiculer.
 - Mobiliser des bibliothèques Python devenues incontournables en data visualisation.
 
-### Format du cours et programme prévisionnel
+## Format du cours et programme prévisionnel
 
 Les séances sont organisées en format atelier. Chaque séance comportera une dimension pratique, avec des temps d'application et exercices sur des cas concrets. Le module est organisé en séquences progressives : (1) installation de l’environnement de travail, (2) introduction au traitement et la manipulation de données, (3) réalisation de différents types de visualisations.
 
@@ -49,7 +65,7 @@ Bloc 3 – Visualisation de données (6 séances)
 
 <!-- TODO: raffiner les types de visualisation qui seront présentées -->
 
-### Validation des acquis
+## Validation des acquis
 
 Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de rendus intermédiaires.
 Les rendus débouchent sur un rendu final prenant la forme d'une infographie aboutie.
@@ -77,7 +93,7 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
   - une mise en forme adéquate
 - enregistre la figure dans un format de sortie adapté (png, pdf, html…)
 
-### Calendrier
+## Calendrier
 
 Description des icônes :
 
@@ -91,7 +107,7 @@ Description des icônes :
 | **Séance 2**  | [:bookmark_tabs: Programmer en Python I](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/01-introduction-python.ipynb) |                                |
 | **Séance 3**  | Programmer en Python II                                                                                                             | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/02-types-et-structures.ipynb) |                                |
 | **Séance 4**  | Chargement et filtrage des données                                                                                                |   [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/03-exploration-donnees-colonnes.ipynb) |                                |
-| **Séance 5**  | Recodage et préparation des données                                                                                               |                                                                                                                      | :dart: Titres & Sous-titres    |
+| **Séance 5**  | Recodage et préparation des données                                                                                               |                                                                                                                      | :dart: [Titres & Sous-titres](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/milestone-1.ipynb)    |
 | **Séance 6**  | Variables et statistiques descriptives                                                                                            |                                                                                                                      |                                |
 | **Séance 7**  | Visualisations I                                                                                                                   |                                                                                                                      | :dart: Variables & Stats desc. |
 | **Séance 8**  | Visualisations II                                                                                                                 |                                                                                                                      |                                |
@@ -103,19 +119,19 @@ Description des icônes :
 
 
 
-### Contact & Support
-- **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
+## Contact & Support
+- **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6) | [Léo Mignot](mailto:l.mignot@sciencespobordeaux.fr)
 - [**Aide/Chat WhatsApp**](https://chat.whatsapp.com/DA7qnMYS2lJ3DSFk02KB7j)
 
-### Liens Utiles
 
+## Liens utiles
 - [From Data to Viz](https://www.data-to-viz.com/)
 - [Dataviz Catalogue](https://datavizcatalogue.com/)
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Données: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
 - [Autres ressources](https://github.com/SciencesPoBordeaux/data-viz/blob/main/ressources.md)
 
-### À propos
+## À propos
 <!-- TODO : PRÉCISER LES TYPES DE NUMÉROS DE CLAQUETTES POUR BROADWAY ? -->
 
 Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation de numéros de claquettes.
