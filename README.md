@@ -4,12 +4,15 @@ Comment faire passer un message simple à partir d'informations complexes ?
 
 ## Table des matières
 
+- [Introduction](#introduction)
 - [Programme](#format-du-cours-et-programme-prévisionnel)
 - [Validation](#validation-des-acquis)
 - [Calendrier](#calendrier)
 - [Contact & support](#contact--support)
 - [Liens utiles](#liens-utiles)
 - [À propos](#à-propos)
+
+## Introduction
 
 Dans un monde où les données sont omniprésentes, la capacité à produire des visualisations est devenue une compétence essentielle pour les journalistes, chercheur·e·s ou tout·e professionnel·le se confrontant à des données dans ses travaux ou sa prise de décision.
 
