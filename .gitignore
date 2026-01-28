@@ -18,4 +18,4 @@ env.bak/
 venv.bak/
 
 # Python /uv / etc. stuff ?
-
+uv.lock
