@@ -19,7 +19,7 @@ Dans un monde où les données sont omniprésentes, la capacité à produire des
 Cet atelier propose une initiation progressive à la data visualisation à l'aide du langage Python. Aucun prérequis dans ces domaines n'est exigé.
 
 <p align="center">
-    <img src="figures/visualization.svg" style="max-width:40%;">
+    <img src="figures/visualization.svg" style="width:50%;">
 </p>
 
 En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences sociales, il s'agira d'apprendre à manipuler et simplifier des données empiriques pour produire des visualisations claires ayant un message précis. Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
@@ -32,7 +32,7 @@ En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences soc
 - Choisir un type de visualisation pertinent selon les données et le message que vous souhaitez véhiculer.
 - Mobiliser des bibliothèques Python devenues incontournables en data visualisation.
 
-### Format du cours et programme prévisionnel
+## Format du cours et programme prévisionnel
 
 Les séances sont organisées en format atelier. Chaque séance comportera une dimension pratique, avec des temps d'application et exercices sur des cas concrets. Le module est organisé en séquences progressives : (1) installation de l’environnement de travail, (2) introduction au traitement et la manipulation de données, (3) réalisation de différents types de visualisations.
 
@@ -62,7 +62,7 @@ Bloc 3 – Visualisation de données (6 séances)
 
 <!-- TODO: raffiner les types de visualisation qui seront présentées -->
 
-### Validation des acquis
+## Validation des acquis
 
 Ce module, adoptant une approche incrémentale, propose une évaluation continue par la remise de rendus intermédiaires.
 Les rendus débouchent sur un rendu final prenant la forme d'une infographie aboutie.
@@ -90,7 +90,7 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
   - une mise en forme adéquate
 - enregistre la figure dans un format de sortie adapté (png, pdf, html…)
 
-### Calendrier
+## Calendrier
 
 Description des icônes :
 
@@ -116,18 +116,17 @@ Description des icônes :
 
 
 
-### Contact & support
+## Contact & support
 * **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
 
-### Liens utiles
-
+## Liens utiles
 - [From Data to Viz](https://www.data-to-viz.com/)
 - [Dataviz Catalogue](https://datavizcatalogue.com/)
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)
 - [Données: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
 - [Autres ressources](https://github.com/SciencesPoBordeaux/data-viz/blob/main/ressources.md)
 
-### À propos
+## À propos
 <!-- TODO : PRÉCISER LES TYPES DE NUMÉROS DE CLAQUETTES POUR BROADWAY ? -->
 
 Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation de numéros de claquettes.
