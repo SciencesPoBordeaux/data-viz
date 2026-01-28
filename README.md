@@ -119,8 +119,9 @@ Description des icônes :
 
 
 
-## Contact & support
-* **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6) | [Léo Mignot](mailto:l.mignot@sciencespobordeaux.fr)
+## Contact & Support
+- **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6) | [Léo Mignot](mailto:l.mignot@sciencespobordeaux.fr)
+- [**Aide/Chat WhatsApp**](https://chat.whatsapp.com/DA7qnMYS2lJ3DSFk02KB7j)
 
 
 ## Liens utiles
