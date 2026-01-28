@@ -117,7 +117,8 @@ Description des icônes :
 
 
 ## Contact & support
-* **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6)
+* **:calendar: Prendre rendez-vous :** [Mickael Temporão](https://calendar.app.google/AU48bCi41zpUHgCh6) | [Léo Mignot](mailto:l.mignot@sciencespobordeaux.fr)
+
 
 ## Liens utiles
 - [From Data to Viz](https://www.data-to-viz.com/)
