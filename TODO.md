@@ -1,5 +1,6 @@
 # TODO
 
+- [ ] Switch vote -> vote_int and vote_int -> vote_choice
 - [ ] identifier les critères d'un bon graph
     - black & white
     - title utile
