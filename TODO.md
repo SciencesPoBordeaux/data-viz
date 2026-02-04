@@ -1,19 +1,19 @@
 # TODO
-
-- [ ] Switch vote -> vote_int and vote_int -> vote_choice
-- [ ] identifier les critères d'un bon graph
+- [ ] Milestone(s)
+- [ ] Critères d'un bon graph
+    - 1 figure = message
+    - useful title 
+    - with reading example
     - black & white
-    - title utile
-    - reading examples
     - source
     - code
-    - une figure = message
-    - figure carrées -> effets d'échelle attention biais de lecture
+    - squared figures -> effets d'échelle, biais de lecture
     - mise en forme adéquate/proportions/lisibilité taille tikz...)
-    - enregistre/exporter la figure (pdf, png, ...)
-- [ ] identifier sources utiles pour les critères > commencé dans les ressources
-- [ ] add links to modules (plan des séances avec liens)
+    - export fig (pdf, png, ...)
 
-# Next time
-
+# Next Year?
+- [ ] Identifier sources utiles pour les critères 
+    - commencé dans les ressources
+    - intégration des sources dans les nb
 - [ ] Check 1 nice fig per notebook? 
+- [ ] Switch vote -> vote_int and vote_int -> vote_choice
