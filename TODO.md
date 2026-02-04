@@ -1,5 +1,6 @@
 # TODO
 
+- [ ] Switch vote -> vote_int and vote_int -> vote_choice
 - [ ] identifier les critères d'un bon graph
     - black & white
     - title utile
@@ -12,3 +13,7 @@
     - enregistre/exporter la figure (pdf, png, ...)
 - [ ] identifier sources utiles pour les critères > commencé dans les ressources
 - [ ] add links to modules (plan des séances avec liens)
+
+# Next time
+
+- [ ] Check 1 nice fig per notebook? 
