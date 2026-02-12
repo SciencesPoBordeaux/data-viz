@@ -9,10 +9,11 @@
 - [Initiation à la Data Visualisation](#initiation-à-la-data-visualisation)
   - [Table des matières](#table-des-matières)
   - [Introduction](#introduction)
+    - [À la fin du semestre, vous saurez](#à-la-fin-du-semestre-vous-saurez)
   - [Format du cours et programme prévisionnel](#format-du-cours-et-programme-prévisionnel)
   - [Validation des acquis](#validation-des-acquis)
   - [Calendrier](#calendrier)
-  - [Contact \& support](#contact--support)
+  - [Contact \& Support](#contact--support)
   - [Liens utiles](#liens-utiles)
   - [À propos](#à-propos)
 
@@ -77,7 +78,7 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
 | Séance 7   | Sélection de variables et statistiques descriptives | 10%   |
 | Séance 9   | Prototype de visualisation I                        | 10%   |
 | Séance 11  | Prototype de visualisation II                       | 10%   |
-| Final      | Infographie à rendre pour le **10 avril**  | 60%   |
+| Final      | Infographie à rendre pour le **10 avril**           | 60%   |
 
 **Critères de réussite de l'infographie :**
 
