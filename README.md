@@ -39,7 +39,7 @@ En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences soc
 
 Les séances sont organisées en format atelier. Chaque séance comportera une dimension pratique, avec des temps d'application et exercices sur des cas concrets. Le module est organisé en séquences progressives : (1) installation de l’environnement de travail, (2) introduction au traitement et la manipulation de données, (3) réalisation de différents types de visualisations.
 
-Bloc 1 – Mise en place & premiers pas (1 séances)  
+Bloc 1 – Mise en place & premiers pas (1 séance)  
 *Objectif : permettre à chacun·e de disposer d’un environnement de travail fonctionnel*
 
 - Présentation du cours et des attendus
