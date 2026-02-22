@@ -9,10 +9,11 @@
 - [Initiation à la Data Visualisation](#initiation-à-la-data-visualisation)
   - [Table des matières](#table-des-matières)
   - [Introduction](#introduction)
+    - [À la fin du semestre, vous saurez](#à-la-fin-du-semestre-vous-saurez)
   - [Format du cours et programme prévisionnel](#format-du-cours-et-programme-prévisionnel)
   - [Validation des acquis](#validation-des-acquis)
   - [Calendrier](#calendrier)
-  - [Contact \& support](#contact--support)
+  - [Contact \& Support](#contact--support)
   - [Liens utiles](#liens-utiles)
   - [À propos](#à-propos)
 
@@ -38,7 +39,7 @@ En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences soc
 
 Les séances sont organisées en format atelier. Chaque séance comportera une dimension pratique, avec des temps d'application et exercices sur des cas concrets. Le module est organisé en séquences progressives : (1) installation de l’environnement de travail, (2) introduction au traitement et la manipulation de données, (3) réalisation de différents types de visualisations.
 
-Bloc 1 – Mise en place & premiers pas (1 séances)  
+Bloc 1 – Mise en place & premiers pas (1 séance)  
 *Objectif : permettre à chacun·e de disposer d’un environnement de travail fonctionnel*
 
 - Présentation du cours et des attendus
@@ -77,7 +78,7 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
 | Séance 7   | Sélection de variables et statistiques descriptives | 10%   |
 | Séance 9   | Prototype de visualisation I                        | 10%   |
 | Séance 11  | Prototype de visualisation II                       | 10%   |
-| Final      | Infographie à rendre pour le **10 avril**  | 60%   |
+| Final      | Infographie à rendre pour le **10 avril**           | 60%   |
 
 **Critères de réussite de l'infographie :**
 
@@ -105,9 +106,9 @@ Description des icônes :
 | **Séance 1**  | [:bookmark_tabs: Introduction](https://sciencespobordeaux.github.io/data-viz/slides/slides-S1/slides-1.html)                        | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/demo_intro.ipynb)                      |                                                                                                                               |
 | **Séance 2**  | [:bookmark_tabs: Programmer en Python I](https://sciencespobordeaux.github.io/data-viz/slides/slides-S2/slides-2.html#/title-slide) | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/01-introduction-python.ipynb)          |                                                                                                                               |
 | **Séance 3**  | Programmer en Python II                                                                                                             | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/02-types-et-structures.ipynb)          |                                                                                                                               |
-| **Séance 4**  | Chargement et filtrage des données                                                                                                  | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/03-exploration-donnees-colonnes.ipynb) |                                                                                                                               |
-| **Séance 5**  | Recodage et préparation des données                                                                                                 | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/04-exploration-donnees-lignes.ipynb)   | :dart: [Titres & Sous-titres](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/milestone-1.ipynb)    |
-| **Séance 6**  | Variables et statistiques descriptives                                                                                              | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/05-recodage-creation-variables.ipynb)  |                                                                                                                               |
+| **Séance 4**  | Charger et explorer des données                                                                                                  | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/03-exploration-donnees-colonnes.ipynb) |                                                                                                                               |
+| **Séance 5**  | Filtrer et analyser des données (stat descriptives)                                                                                                 | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/04-exploration-donnees-lignes.ipynb)   | :dart: [Titres & Sous-titres](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/milestone-1.ipynb)    |
+| **Séance 6**  | Recoder et créer des variables                                                                                              | [:computer:](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/05-recodage-creation-variables.ipynb)  |                                                                                                                               |
 | **Séance 7**  | Visualisations I                                                                                                                    |                                                                                                                               | :dart: [Variables & Stats desc.](https://githubtocolab.com/sciencespobordeaux/data-viz/blob/main/notebooks/milestone-2.ipynb) |
 | **Séance 8**  | Visualisations II                                                                                                                   |                                                                                                                               |                                                                                                                               |
 | **Séance 9**  | Visualisations III                                                                                                                  |                                                                                                                               | :dart: Visualisation I                                                                                                        |
