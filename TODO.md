@@ -7,6 +7,7 @@
     - black & white
     - source
     - code
+    - taille échantillon (n)
     - squared figures -> effets d'échelle, biais de lecture
     - mise en forme adéquate/proportions/lisibilité taille tikz...)
     - export fig (pdf, png, ...)
