@@ -5,6 +5,7 @@
     - useful title 
     - with reading example
     - black & white
+    - taille échantillon (n) -> dans partie finitions discuter "f-strings" et ajout n dynamique
     - source
     - code
     - squared figures -> effets d'échelle, biais de lecture
