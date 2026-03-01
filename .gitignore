@@ -19,3 +19,6 @@ venv.bak/
 
 # Python /uv / etc. stuff ?
 uv.lock
+
+# misc
+assignments/
