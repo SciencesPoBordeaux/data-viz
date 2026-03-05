@@ -94,7 +94,6 @@ Les rendus débouchent sur un rendu final prenant la forme d'une infographie abo
 Description des icônes :
 
 - :bookmark_tabs: **Slides** : Présentations théoriques et exemples.
-- :computer: **Notebook**  : Travaux pratiques (ouvrables directement dans Google Colab).
 - :dart: **Rendu** : Échéance importante pour l'évaluation.
 
 | Séance        | Description                                                                                                                                        | Slides                                                                                                       | Rendu                                                                                                                         |
