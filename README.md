@@ -6,11 +6,12 @@
 
 ## Table des matières  <!-- omit in toc -->
 
+<!-- no toc -->
 - [Introduction](#introduction)
-- [Format du cours et programme prévisionnel](#format-du-cours-et-programme-prévisionnel)
-- [Validation des acquis](#validation-des-acquis)
+- [Format](#format-du-cours-et-programme-prévisionnel)
+- [Validation](#validation-des-acquis)
 - [Calendrier](#calendrier)
-- [Contact \& Support](#contact--support)
+- [Contact](#contact--support)
 - [Liens utiles](#liens-utiles)
 - [À propos](#à-propos)
 
