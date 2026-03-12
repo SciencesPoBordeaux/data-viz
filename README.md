@@ -1,17 +1,18 @@
-# Initiation à la Data Visualisation
+# Initiation à la Data Visualisation <!-- omit in toc -->
 
 <p align="center">
     <img src="figures/visualization.svg" alt="Data-Viz" style="width:66%;">
 </p>
 
-## Table des matières
+## Table des matières  <!-- omit in toc -->
 
-  - [Introduction](#introduction)
-  - [Format](#format-du-cours-et-programme-prévisionnel)
-  - [Validation](#validation-des-acquis)
-  - [Calendrier](#calendrier)
-  - [Support](#contact--support)
-  - [Liens](#liens-utiles)
+- [Introduction](#introduction)
+- [Format du cours et programme prévisionnel](#format-du-cours-et-programme-prévisionnel)
+- [Validation des acquis](#validation-des-acquis)
+- [Calendrier](#calendrier)
+- [Contact \& Support](#contact--support)
+- [Liens utiles](#liens-utiles)
+- [À propos](#à-propos)
 
 ## Introduction
 
@@ -24,7 +25,7 @@ Cet atelier propose une initiation progressive à la data visualisation à l'aid
 En s'inscrivant dans une réflexion sur les usages de la dataviz en sciences sociales, il s'agira d'apprendre à manipuler et simplifier des données empiriques pour produire des visualisations claires ayant un message précis. Tout au long du module des thèmes tels que la polarisation, le knowledge gap, la participation électorale ou encore la confiance politique seront explorés.
 
 
-### À la fin du semestre, vous saurez
+### À la fin du semestre, vous saurez <!-- omit in toc -->
 
 - Concevoir et produire des graphiques pour vos projets.
 - Réaliser les étapes clés d'un projet de visualisation : chargement, préparation, analyse, et production graphique.
