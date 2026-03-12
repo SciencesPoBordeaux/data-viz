@@ -13,7 +13,6 @@
 - [Calendrier](#calendrier)
 - [Contact](#contact--support)
 - [Liens utiles](#liens-utiles)
-- [À propos](#à-propos)
 
 ## Introduction
 
