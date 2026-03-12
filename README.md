@@ -126,7 +126,7 @@ Description des icônes :
 - [Données: ANES 2024](https://electionstudies.org/data-center/2024-time-series-study/)
 - [Autres ressources](https://github.com/SciencesPoBordeaux/data-viz/blob/main/ressources.md)
 
-## À propos
+## À propos  <!-- omit in toc -->
 <!-- TODO : PRÉCISER LES TYPES DE NUMÉROS DE CLAQUETTES POUR BROADWAY ? -->
 
 Léo Mignot et Mickael Temporão sont spécialistes dans la réalisation de numéros de claquettes.
