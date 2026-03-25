@@ -43,7 +43,8 @@ hexes = (
     .mark_geoshape(stroke="white", strokeWidth=3) 
     .encode(
         color=alt.Color(
-            "gender_gap:Q",
+            "gender_gap",
+            type="quantitative",
             scale=alt.Scale(
                 scheme="redgrey", 
                 domainMid=0, 
@@ -62,7 +63,7 @@ hexes = (
                 gradientLength=250*2,
             )
         ),
-        tooltip=["state:N", alt.Tooltip("gender_gap:Q", format=".1%"), "count:Q"]
+        tooltip=["state", alt.Tooltip("gender_gap", type="quantitative", format=".1%"), "count"]
     )
 )
 
@@ -77,9 +78,9 @@ hex_labels = (
         baseline="middle"
     )
     .encode(
-        longitude="centroid_lon:Q",
-        latitude="centroid_lat:Q",
-        text="state:N"
+        longitude="centroid_lon",
+        latitude="centroid_lat",
+        text="state"
     )
 )
 
