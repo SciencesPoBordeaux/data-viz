@@ -38,18 +38,14 @@ Dans votre notebook, procédez comme dans les séances et rendus précédentes :
 
 **Conseil :** Inspirez vous des notebooks précédents pour voir comment les variables ont été recodées et nettoyées.
 
-## Étape 5 - Créer la visualisation
+## Étape 5 - Créer et exporter la visualisation
 
 Construisez votre graphique en suivant les critères de qualité vus en cours :
 
-| Élément | Exigence |
-|---------|----------|
-| **Mise en forme** | Lisibilité, couleurs adaptées, proportions correctes |
-| **Titre** | Explicite, précis, accrocheur |
-| **Sous-titre** | Exemple de lecture ou interprétation |
-| **Source** | Précise la source des données |
-
-## Étape 6 - Exporter la figure
+- **Mise en forme :** Lisibilité, couleurs adaptées, proportions correctes
+- **Titre :** Précis, utile, accrocheur, explicite
+- **Sous-titre :** Exemple de lecture ou interprétation
+- **Source :** Précise la source des données
 
 Ajouter le code nécessaire pour sauvegarder votre figure dans un format approprié.
 
